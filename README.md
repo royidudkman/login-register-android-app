@@ -5,3 +5,8 @@ Welcome to the Firebase Bakery! This application purpose is to use Firebase to a
 This app simulates a bakery thats sells food, you can register/login, add items to your cart and edit the cart later.
 
 # Screenshots:
+![Screenshot 1](/firebasetest%20pics/1.png)
+![Screenshot 2](/firebasetest%20pics/2.png)
+![Screenshot 3](/firebasetest%20pics/3.png)
+![Screenshot 4](/firebasetest%20pics/4.png)
+
